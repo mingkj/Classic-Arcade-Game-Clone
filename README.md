@@ -11,7 +11,7 @@
 
 
 ## 如何运行
-用 Chrome 浏览器打开 **index.html** 文件，或点击 [这里](https://mingkj.github.io/Classic-Arcade-Game-Clone)
+用 Chrome 浏览器打开 **index.html** 文件，或点击 [这里](https://mingkj.github.io/Classic-Arcade-Game-Clone/index.html)
 
 ## 键盘方向键操作
 - up 键起时向**上**移动一格
